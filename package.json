@@ -1,0 +1,15 @@
+{
+  "name": "polymer3-demo",
+  "flat": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AgonisticKatai",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.1",
+    "@webcomponents/webcomponentsjs": "^1.0.22"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.22"
+  }
+}
